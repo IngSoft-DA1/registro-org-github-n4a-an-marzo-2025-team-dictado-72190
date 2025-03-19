@@ -1,4 +1,2 @@
 Nombre y apellido  |   Numero de estudiante
-Sebastián Diaz     |   291594
-Sabrina Mato | 222071
-Emiliano Zamudio  |   237006
+Lucia Coll         |  111318
