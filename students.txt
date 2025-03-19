@@ -1,2 +1,0 @@
-Nombre y apellido  |   Numero de estudiante
-Michael García     |   246478
